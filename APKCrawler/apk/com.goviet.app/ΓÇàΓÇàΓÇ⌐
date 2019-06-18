@@ -1,0 +1,34 @@
+{
+  "activities": [
+    {
+      "name": "GP:MT",
+      "min_ver": "2.25.0",
+      "data": "gojek://gopay/merchanttransfer"
+    },
+    {
+      "name": "GP:RR",
+      "min_ver": "2.25.0",
+      "data": "gojek://gopay/merchanttransfer"
+    },
+    {
+      "name": "GP:GC",
+      "min_ver": "2.32.0",
+      "data": "gojek://gocharge/home"
+    },
+    {
+      "name": "GNB:HOME",
+      "min_ver": "3.10.0",
+      "data": "gojek://nearby"
+    },
+    {
+      "name": "GNB:MT",
+      "min_ver": "3.10.0",
+      "data": "gojek://nearby/merchant/"
+    },
+    {
+      "name": "GJ:DP",
+      "min_ver": "3.10.0"
+    }
+  ],
+  "timestamp": "201720121200123"
+}

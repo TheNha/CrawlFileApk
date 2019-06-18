@@ -1,0 +1,195 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card_id": "gofood:platter:banner:431326",
+        "card_type": 11,
+        "start_time": 1540355004,
+        "end_time": 1541046204,
+        "priority": 1,
+        "source": "fatamorgana",
+        "service_type": 5,
+        "card_template": "gofood:platter:banner",
+        "service_area_id": 0,
+        "content": {
+          "scroll_interval_in_ms": 3500,
+          "actions": [
+            {
+              "image_url": "http://images-goviet.gojekapi.com/uploads/9c0b5f57-50ce-4c7f-957d-3bfb02a8befa.jpg",
+              "image_width": 400,
+              "image_height": 200
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/SNACK",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/29f75915-25c7-4ddb-9fd1-7efabacc5c4f.jpg",
+              "image_width": 400,
+              "image_height": 200
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/INTERNATIONAL_FOOD",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/b1a09594-d3e8-48d4-8d67-80f15bf115ee.jpg",
+              "image_width": 400,
+              "image_height": 200
+            }
+          ]
+        }
+      },
+      {
+        "card_id": "gofood:platter:shortcut:431326",
+        "card_type": 13,
+        "start_time": 1540355004,
+        "end_time": 1541046204,
+        "priority": 0.8,
+        "source": "fatamorgana",
+        "service_type": 5,
+        "card_template": "gofood:platter:shortcut",
+        "service_area_id": 0,
+        "content": {
+          "actions": [
+            {
+              "deep_link": "goviet://gofood/merchant/category/NEAR_ME",
+              "image_url": "https://images-goviet.gojekapi.com/uploads/b8a7896f-ff1e-49ad-86ad-c2d3b85c661c.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Gần tôi"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/PROMOTION",
+              "image_url": "https://images-goviet.gojekapi.com/uploads/136352cf-2e7d-484b-b392-ad44d0b2fc9c.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Khuyến mãi"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/COFFEE",
+              "image_url": "https://images-goviet.gojekapi.com/uploads/dda16113-36c8-492f-9587-6e92dc72bc10.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Ghiền cà phê"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/SNACK",
+              "image_url": "https://images-goviet.gojekapi.com/uploads/549feee3-8d64-4b26-b7da-b0d42b832db0.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Giờ ăn vặt"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/RECOMMENDATION",
+              "image_url": "https://images-goviet.gojekapi.com/uploads/629a8374-c509-4260-9a74-5503ae8a33e6.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Món HOT trong ngày"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/HEALTHY_FOOD",
+              "image_url": "https://images-goviet.gojekapi.com/uploads/b3972687-88ce-4dbb-abba-7575f194116c.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Đồ bổ"
+            }
+          ],
+          "title": "Khám phá món ăn theo danh mục"
+        }
+      },
+      {
+        "card_id": "gofood:platter:cuisinecategory:431326",
+        "card_type": 12,
+        "start_time": 1540355004,
+        "end_time": 1541046204,
+        "priority": 0.6,
+        "source": "fatamorgana",
+        "service_type": 5,
+        "card_template": "gofood:platter:cuisinecategory",
+        "service_area_id": 0,
+        "content": {
+          "actions": [
+            {
+              "deep_link": "goviet://gofood/merchant/category/VIETNAMESE",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/c5c4f6eb-33e0-4e33-9316-83bc16fca96c.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Vietnamese"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/BOBA_AND_TEA",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/6aa4fa9c-42b5-438c-ac04-0bd5742edd50.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Boba and Tea"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/category/INTERNATIONAL_FOOD",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/21373b95-284e-456f-91b4-28fae194a457.png",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "International Food"
+            }
+          ],
+          "title": "Chọn theo loại",
+          "see_all_deep_link": "goviet://gofood/cuisines"
+        }
+      },
+      {
+        "card_id": "gofood:platter:nearbyrestaurant:431326",
+        "card_type": 12,
+        "start_time": 1540355004,
+        "end_time": 1541046204,
+        "priority": 0.6,
+        "source": "fatamorgana",
+        "service_type": 5,
+        "card_template": "gofood:platter:nearbyrestaurant",
+        "service_area_id": 0,
+        "content": {
+          "actions": [
+            {
+              "deep_link": "goviet://gofood/merchant/3e9f58a0-9f16-4a6c-b0e4-bfbd7ccd576e",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/a9dd443f-a44b-4f5b-83d0-7fd29b5a7176.jpg",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Bún Đậu Ngõ Nhỏ Phố Nhỏ, Pasteur"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/7a19d7e5-584c-4169-839b-8f851ba430ad",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/cc027152-7034-4c3f-8378-7e11092b363b.jpg",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Thức Coffee, 156B Pasteur"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/871887fe-23be-4d3c-8f7d-cee6f291e45b",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/cad6cfc8-cd59-4609-9e43-00b304d7045a.jpg",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "She Cafe, Pasteur"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/78b0fd4d-1d9d-45b8-a69f-3a9f739b1c53",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/a9592464-c11a-4972-a0e9-281e9b8fd75a.jpg",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "Phở 24, Pasteur"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/2c3c9124-3149-479b-8a0e-e42e1a51718b",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/3d7a6d58-e302-4a3a-b1d8-babf02750fe0.jpg",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "M2C Cafe - Modern Meets Culture, Lý Tự Trọng"
+            },
+            {
+              "deep_link": "goviet://gofood/merchant/3999b53e-d2ad-4db2-906a-e26e1a362f24",
+              "image_url": "http://images-goviet.gojekapi.com/uploads/6437d280-6489-4383-8439-14326c59b089.jpg",
+              "image_width": 200,
+              "image_height": 200,
+              "description": "The Cake Factory, Lý Tự Trọng"
+            }
+          ],
+          "title": "Nearby Restaurants",
+          "see_all_deep_link": "goviet://gofood/merchant/category/NEAR_ME"
+        }
+      }
+    ]
+  },
+  "success": true
+}

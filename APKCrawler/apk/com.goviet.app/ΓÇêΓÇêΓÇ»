@@ -1,0 +1,76 @@
+{
+    "search": {
+        "noResults": "Kami tidak dapat menemukan \"{QUERY}\". Silakan gunakan susunan kata yang lain atau hubungi agen kami",
+        "noResultsContext": "Kami tidak dapat menemukan \"{CONTEXT}\". Silakan hubungi agen kami",
+        "resultBasedOn": "Hasil berdasarkan pada:",
+        "pressEnterToSearch": "Tekan Enter untuk mencari",
+        "clearSearchQuery": "Bersihkan pencarian",
+        "searchByVoice": "Cari berdasarkan suara",
+        "noSuggestions": "Tidak ada saran yang tersedia",
+        "suggestionsAvailable": "Saran tersedia, gunakan tombol panah ke atas dan bawah untuk mengarahkan",
+        "resultsAvailable": "Hasil pencarian tersedia, gunakan tombol TAB untuk mengarahkan"
+    },
+    "thumbs": {
+        "like": "Jawaban yang bagus!",
+        "likeActive": "Anda menyukai ini",
+        "dislike": "Perlu perbaikan",
+        "dislikeActive": "Anda tidak menyukai ini",
+        "dialogTitle": "Apakah ada yang salah dengan jawaban ini?"
+    },
+    "sharing": {
+        "title": "Bagikan jawaban ini",
+        "clipboard": "Salin ke clipboard",
+        "email": "Bagikan melalui email",
+        "facebook": "Bagikan melalui Facebook",
+        "twitter": "Bagikan melalui Twitter"
+    },
+    "survey": {
+        "title": "Apakah artikel ini membantu Anda?",
+        "thanks": "Terima kasih!",
+        "yes": "Ya",
+        "no": "Tidak",
+        "submit": "Kirim",
+        "dialogTitle": "Bagaimana kami dapat memperbaiki artikel ini?"
+    },
+    "poweredBy": "Dipersembahkan oleh nanorep",
+    "ok": "Oke",
+    "cancel": "Batal",
+    "feedback": {
+        "missingOrIncorrectInfo": "Informasi tidak sesuai",
+        "irrelevantAnswer": "Jawaban tidak relevan",
+        "incorrectAnswer": "Jawaban tidak tepat",
+        "missingImportantInfo": "Informasi yang penting tidak dapat ditemukan"
+    },
+    "ticket": {
+        "chooseFile": "Pilih file",
+        "filesDeleted": "Karena koneksi yang tidak baik, file anda telah dihapus. Silakan unggah kembali file Anda.",
+        "fileBlockedFileSize": "Unggah gagal. Maksimum ukuran file adalah {SIZE} MB",
+        "fileExtensionBlocked": "Jenis file {EXTENSION} tidak diizinkan",
+        "fileMaxReached": "Anda tidak dapat menambah file lainnya",
+        "fileBlocked": "Anda tidak dapat menambahkan lampiran saat ini, silakan coba kembali",
+        "submitFailed": "Terjadi kesalahan. Silakan coba kembali",
+        "postConfirmationText": "Terima kasih! Kiriman Anda sudah diterima"
+    },
+    "translateTo": "Terjemahkan ke",
+    "backLink": "Kembali",
+    "widget": {
+        "close": "Tutup widget",
+        "minimize": "Perkecil widget",
+        "expand": "Perbesar widget"
+    },
+    "context": {
+        "pleaseSelect": "Silakan pilih",
+        "dialogTitle": "Tersedia beberapa jaawaban. Silakan pilih konteks:"
+    },
+    "chat": {
+        "end": "Akhiri percakapan",
+        "waiting": "Mohon tunggu untuk tersedianya seorang agen...",
+        "agent": "Agen",
+        "typing": "sedang mengetik...",
+        "unavailable": "Percakapan tidak tersedia",
+        "active": "Percakapan dengan",
+        "starting": "Mulai percakapan....",
+        "started": "Chat started",
+        "ended": "Chat ended"
+    }
+}
